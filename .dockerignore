@@ -4,4 +4,5 @@ target/
 .mvn/
 .idea/
 *.iml
+*.log
 '@ | Out-File -Encoding utf8 .dockerignore
